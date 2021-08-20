@@ -1,0 +1,25 @@
+{
+  "name": "near-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarH2ONyzhnyk/near-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarH2ONyzhnyk/near-library/issues"
+  },
+  "homepage": "https://github.com/NazarH2ONyzhnyk/near-library#readme",
+  "dependencies": {
+    "autoprefixer": "^10.3.1",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.7"
+  }
+}
