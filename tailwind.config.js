@@ -9,6 +9,7 @@ module.exports = {
         current: 'currentColor',
         orange: {
           100: "#FFEDD5",
+          300: "#FDBA74",
         },
       },
       
